@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftpm_son",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:mamouneyya/SwiftPM_Son.git",
+      "state" : {
+        "revision" : "5e60ea70fc0ba61e113d1ae8bd0104b9f97c9e85",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
